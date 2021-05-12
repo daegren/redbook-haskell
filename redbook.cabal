@@ -28,6 +28,7 @@ library
       CH01.Double
       CH01.Hello
       CH02.Lines
+      CH02.Polys
       Lib
   other-modules:
       Paths_redbook
