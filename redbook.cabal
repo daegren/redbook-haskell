@@ -27,6 +27,7 @@ library
   exposed-modules:
       CH01.Double
       CH01.Hello
+      CH02.Lines
       Lib
   other-modules:
       Paths_redbook

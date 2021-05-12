@@ -1,6 +1,6 @@
 module Main where
 
-import CH01.Double
+import CH02.Lines (linesDemo)
 
 main :: IO ()
-main = double
+main = linesDemo
